@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2026-10-11",
+    "status": "In progress",
+    "title": "Full native Blender performance integrated",
+    "summary": "The complete Winter Wind timeline has been assembled in Blender, with phrase cameras, gaze, pedal motion and a seated bow. Contact and key-intersection checks are still being refined; the full video is not yet a finished release.",
+    "links": []
+  },
+  {
+    "date": "2026-10-11",
+    "status": "Work in progress",
+    "title": "First integrated Blender motion preview",
+    "summary": "A ten-second native Blender preview shows coordinated torso, arm, wrist and finger motion. Free-thumb reach, broader clearance and naturalness checks remain unfinished. This is a progress milestone, not production validation.",
+    "links": [
+      {
+        "label": "View the work-in-progress frame",
+        "url": "assets/blender-progress.png"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "status": "Completed demonstration",
+    "title": "Engineering portfolio demo completed",
+    "summary": "The 88-second demonstration presents the music-and-animation pipeline, matched revisions and recorded release outcomes. The Review Hub sequence is a labeled demonstration reconstruction.",
+    "links": [
+      {
+        "label": "Watch the engineering demo",
+        "url": "index.html#demo"
+      }
+    ]
+  }
+]
