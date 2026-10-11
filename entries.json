@@ -1,6 +1,13 @@
 [
   {
     "date": "2026-10-11",
+    "status": "Work in progress",
+    "title": "Furnished recital-room and pianist-motion preview",
+    "summary": "A new twelve-second native Blender progress preview shows a furnished recital room, hand closeups and refined leaning motion. Hand shapes, contact and visual naturalness are still being improved. This is an unfinished preview; the complete Winter Wind video has not been released.",
+    "links": []
+  },
+  {
+    "date": "2026-10-11",
     "status": "In progress",
     "title": "Full native Blender performance integrated",
     "summary": "The complete Winter Wind timeline has been assembled in Blender, with phrase cameras, gaze, pedal motion and a seated bow. Contact and key-intersection checks are still being refined; the full video is not yet a finished release.",
