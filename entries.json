@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-12",
+    "status": "Work in progress",
+    "title": "Full Winter Wind performance rendered for review",
+    "summary": "Krystian’s complete 3-minute 31-second Winter Wind performance has been rendered in native Blender at 60 fps, including the closing bow. The production workflow now preserves completed render blocks and checks for unchanged inputs. This is a review milestone, not a public musical release: full-speed motion, listening and phone presentation still need review.",
+    "links": []
+  },
+  {
     "date": "2026-10-11",
     "status": "Work in progress",
     "title": "Furnished recital-room and pianist-motion preview",
