@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-13",
+    "status": "Work in progress",
+    "title": "Winter Wind motion refinements and 3:25 review exports",
+    "summary": "Targeted hand and body motion repairs have been integrated into Winter Wind. The note visualizer now uses shorter black keys and removes the note caps for a clearer view. Versioned 3-minute 25-second landscape and full portrait review exports are complete, with a four-second picture fade into the ending. Human playback review, phone presentation and the final sound choice remain pending; this is not a public musical release. A new website design is also prepared as a local draft and has not been published.",
+    "links": []
+  },
+  {
     "date": "2026-10-12",
     "status": "Work in progress",
     "title": "Full Winter Wind performance rendered for review",
