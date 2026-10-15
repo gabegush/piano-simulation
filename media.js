@@ -1,0 +1,1 @@
+window.PIANO_MEDIA=Object.freeze({duration:205,defaultLayer:'composite',posters:{clean:'assets/winter-wind-clean-poster.webp',composite:'assets/winter-wind-poster.webp',portrait:'assets/winter-wind-portrait-poster.webp'},views:{clean:'assets/media/winter-wind-clean.mp4',composite:'assets/media/winter-wind-notes.mp4',portrait:'assets/media/winter-wind-portrait.mp4'}});

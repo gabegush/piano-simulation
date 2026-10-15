@@ -1,10 +1,24 @@
 [
   {
     "date": "2026-10-14",
+    "status": "Completed showcase",
+    "title": "Winter Wind showcase combines playback and ten-finger diagnostics",
+    "summary": "The approved website brings Winter Wind playback, timing, pedal, finger assignments and evaluated positions for all ten fingertips into one full-performance showcase. Shared playback controls connect the top video, the viewing formats and the combined diagnostic while moving through the page.",
+    "links": [
+      {
+        "label": "Explore the Winter Wind showcase",
+        "url": "index.html#mechanics-demos"
+      }
+    ],
+    "kind": "Project milestone"
+  },
+  {
+    "date": "2026-10-14",
     "status": "Work in progress",
     "title": "Nocturne Op. 48 No. 1 selected-passage production underway",
     "summary": "Work has resumed on a selected passage from Chopin’s Nocturne in C minor, Op. 48 No. 1, using the project’s rendered pianist and stage. A short motion-and-sound pilot has been produced. The complete selected-passage performance and its portrait version remain unfinished.",
-    "links": []
+    "links": [],
+    "kind": "Project milestone"
   },
   {
     "date": "2026-10-13",
@@ -24,35 +38,40 @@
         "label": "Instagram excerpt",
         "url": "https://www.instagram.com/sillymonkeypiano/reel/DedBj6Zv2MP/"
       }
-    ]
+    ],
+    "kind": "Piece release"
   },
   {
     "date": "2026-10-13",
     "status": "Work in progress",
     "title": "Winter Wind motion refinements and 3:25 review exports",
     "summary": "At this review milestone, targeted hand and body refinements and a clearer note visualizer were integrated into Winter Wind. The 3:25 landscape and full portrait review exports included a four-second ending fade. Playback, phone presentation and the sound choice were still under review before the later release.",
-    "links": []
+    "links": [],
+    "kind": "Project milestone"
   },
   {
     "date": "2026-10-12",
     "status": "Work in progress",
     "title": "Full Winter Wind performance rendered for review",
     "summary": "The complete 3:31 Winter Wind performance was rendered at 60 fps, including a closing bow. This dated review milestone preceded later changes to the motion, portrait layout and ending.",
-    "links": []
+    "links": [],
+    "kind": "Project milestone"
   },
   {
     "date": "2026-10-11",
     "status": "Work in progress",
     "title": "Furnished recital-room and pianist-motion preview",
     "summary": "A twelve-second rendered preview introduced the furnished recital room, hand closeups and refined leaning motion. Hand shapes, contact and movement were still being developed at this stage.",
-    "links": []
+    "links": [],
+    "kind": "Project milestone"
   },
   {
     "date": "2026-10-11",
     "status": "In progress",
     "title": "Full performance scene integrated",
     "summary": "The complete Winter Wind timeline was assembled in rendering software with phrase-timed cameras, gaze, pedal motion and a seated bow. Movement and key contact were still being refined before release.",
-    "links": []
+    "links": [],
+    "kind": "Project milestone"
   },
   {
     "date": "2026-10-11",
@@ -62,9 +81,10 @@
     "links": [
       {
         "label": "View the work-in-progress frame",
-        "url": "assets/blender-progress.png"
+        "url": "assets/rendering-progress.png"
       }
-    ]
+    ],
+    "kind": "Project milestone"
   },
   {
     "date": "2026-10-08",
@@ -76,6 +96,7 @@
         "label": "Watch the engineering demo",
         "url": "index.html#demo"
       }
-    ]
+    ],
+    "kind": "Project milestone"
   }
 ]
