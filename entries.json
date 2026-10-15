@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-10-15",
+    "status": "Completed showcase",
+    "title": "Shared keyboard aligns holds and evaluated fingertips",
+    "summary": "Planned key holds, evaluated positions for all ten fingertips, and held-contact targets now share one keyboard layout with common physical key bounds, spacing, and orientation. Distinct key fills and point markers keep planned holds and evaluated geometry separate.",
+    "links": [
+      {
+        "label": "Explore the aligned keyboard view",
+        "url": "index.html#mechanics-demos"
+      }
+    ],
+    "kind": "Project milestone"
+  },
+  {
     "date": "2026-10-14",
     "status": "Completed showcase",
     "title": "Winter Wind showcase combines playback and ten-finger diagnostics",

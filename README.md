@@ -14,7 +14,7 @@ The featured performance is Chopin’s *Winter Wind*, Op. 25 No. 11, presented a
 
 One playback clock connects the top video, the viewing formats, and the combined diagnostic. Persistent controls provide play, pause, sound, seeking, and playback speed while scrolling. Sound starts muted and can be enabled with **Hear piano**.
 
-The combined view follows musical timing, pedal commands, finger assignments, planned key holds, and evaluated positions for all ten fingertips, including fingers moving between notes. Actual fingertip points and intended held-contact targets are shown separately. Positions interpolate between recorded samples; contact indicators describe sampled pad-to-key geometry.
+The combined view follows musical timing, pedal commands, finger assignments, planned key holds, and evaluated positions for all ten fingertips, including fingers moving between notes. Planned key holds, actual fingertip points, and intended held-contact targets share one keyboard built from the same physical key bounds, spacing, and orientation. Distinct fills and markers keep the planned and evaluated layers clear. Positions interpolate between recorded samples; contact indicators describe sampled pad-to-key geometry.
 
 ## From music to motion
 
@@ -29,6 +29,7 @@ This repository contains the static public website, published media, and diagnos
 - `entries.json`: release-log records.
 - `app.js` and `media.js`: shared playback and media bindings.
 - `performance-data.js`, `tip-data.js`, and `tip-view.js`: musical events, sampled fingertip geometry, and display interpolation.
+- `key-layout.js`: the shared physical keyboard for planned holds, fingertips, and targets.
 - `style.css` and `assets/`: presentation styles, images, and video.
 
 There is no build step. For local preview, serve the repository root with a static web server.
