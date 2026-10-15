@@ -14,7 +14,7 @@ The featured performance is Chopin’s *Winter Wind*, Op. 25 No. 11, presented a
 
 One playback clock connects the top video, the viewing formats, and the combined diagnostic. Persistent controls provide play, pause, sound, seeking, and playback speed while scrolling. Sound starts muted and can be enabled with **Hear piano**.
 
-The combined view follows musical timing, pedal commands, finger assignments, planned key holds, and evaluated positions for all ten fingertips—including fingers moving between notes. Actual fingertip points and intended held-contact targets are shown separately. Positions interpolate between recorded samples; contact indicators describe sampled pad-to-key geometry.
+The combined view follows musical timing, pedal commands, finger assignments, planned key holds, and evaluated positions for all ten fingertips, including fingers moving between notes. Actual fingertip points and intended held-contact targets are shown separately. Positions interpolate between recorded samples; contact indicators describe sampled pad-to-key geometry.
 
 ## From music to motion
 
