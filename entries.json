@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-10-15",
+    "status": "Work in progress",
+    "title": "Nocturne Op. 48 No. 1 draft combines animation and piano",
+    "summary": "A 20-second draft of the selected passage from Chopin’s Nocturne in C minor, Op. 48 No. 1 now pairs the rendered pianist’s movement with the chosen piano soundtrack. Motion refinements continue; the complete selected-passage performance and its portrait version remain unfinished.",
+    "links": [],
+    "kind": "Project milestone"
+  },
+  {
+    "date": "2026-10-15",
     "status": "Completed showcase",
     "title": "Shared keyboard aligns holds and evaluated fingertips",
     "summary": "Planned key holds, evaluated positions for all ten fingertips, and held-contact targets now share one keyboard layout with common physical key bounds, spacing, and orientation. Distinct key fills and point markers keep planned holds and evaluated geometry separate.",
