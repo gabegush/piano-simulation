@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-10-21",
+    "status": "Work in progress",
+    "title": "Clair de lune full-passage render and camera integration milestone",
+    "summary": "Claude Degoosey's complete selected Clair de lune passage now has a continuous performance render with four camera views, including an overhead keyboard view. Refinements to seated movement, elbow position and interactions between the hands are continuing; the performance remains a work in progress.",
+    "links": [],
+    "kind": "Project milestone"
+  },
+  {
     "date": "2026-10-20",
     "status": "Work in progress",
     "title": "Clair de lune relaxed hand-pose studies prepared",
