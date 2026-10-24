@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-23",
+    "status": "Published",
+    "title": "Clair de lune published on Instagram and YouTube Shorts",
+    "summary": "Special guest Claude Degoosey performs a 1:48 selected passage from Claude Debussy’s Clair de lune, now published as an Instagram Reel and YouTube Short. The portrait performance includes a synchronized note visualizer, four camera views including an overhead keyboard view, opening titles and visual fades.",
+    "links": [
+      {
+        "label": "Instagram Reel",
+        "url": "https://www.instagram.com/sillymonkeypiano/reel/De222vosJcn/"
+      },
+      {
+        "label": "YouTube Short",
+        "url": "https://www.youtube.com/shorts/mNB7tmEwN5E"
+      }
+    ],
+    "kind": "Piece release"
+  },
+  {
     "date": "2026-10-21",
     "status": "Work in progress",
     "title": "Clair de lune full-passage render and camera integration milestone",
