@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-12",
+    "status": "Work in progress",
+    "title": "Voice balance and dynamics comparisons developed",
+    "summary": "Voice-balance and dynamics comparisons were developed to guide ongoing performance, animation and phrasing refinement.",
+    "links": [],
+    "kind": "Project milestone"
+  },
+  {
+    "date": "2026-11-09",
+    "status": "Published",
+    "title": "Revolutionary Étude published on YouTube Shorts and Instagram",
+    "summary": "Krystian Zimermonkey’s performance of Frédéric Chopin’s Revolutionary Étude, Op. 10 No. 12, was published as a YouTube Short and Instagram Reel.",
+    "links": [
+      {
+        "label": "YouTube Short",
+        "url": "https://youtube.com/shorts/_FvM1BpldEE"
+      },
+      {
+        "label": "Instagram Reel",
+        "url": "https://www.instagram.com/sillymonkeypiano/reel/DfibcrvMSl-/"
+      }
+    ],
+    "kind": "Piece release"
+  },
+  {
+    "date": "2026-11-06",
+    "status": "Published",
+    "title": "Chopin Étude Op. 10 No. 4 published on Instagram",
+    "summary": "Krystian Zimermonkey’s performance of Frédéric Chopin’s Étude Op. 10 No. 4 was published as an Instagram Reel.",
+    "links": [
+      {
+        "label": "Instagram Reel",
+        "url": "https://www.instagram.com/sillymonkeypiano/reel/DfamUj1hXV6/"
+      }
+    ],
+    "kind": "Piece release"
+  },
+  {
     "date": "2026-11-04",
     "status": "Published",
     "title": "Black Keys Étude published on YouTube and Instagram",
