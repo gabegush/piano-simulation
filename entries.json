@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-15",
+    "status": "Work in progress",
+    "title": "Tied-note changes mapped into the performance timeline",
+    "summary": "Three tied-note audio changes for Chopin’s Étude Op. 25 No. 5 were mapped into its performance timeline. Matching animation and video remain pending.",
+    "links": [],
+    "kind": "Project milestone"
+  },
+  {
+    "date": "2026-11-13",
+    "status": "Work in progress",
+    "title": "Tied-note audio comparisons developed",
+    "summary": "Audio comparisons for Chopin’s Étude Op. 25 No. 5 explored longer tied-note holds, including a full-length listening trial. Matching animation was still pending.",
+    "links": [],
+    "kind": "Project milestone"
+  },
+  {
     "date": "2026-11-12",
     "status": "Work in progress",
     "title": "Voice balance and dynamics comparisons developed",
