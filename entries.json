@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-18",
+    "status": "Work in progress",
+    "title": "Chopin Étude Op. 25 No. 5 phrasing and hand motion refined",
+    "summary": "A new private preview shapes five phrases around the score’s dynamic markings. Unused fingers on both hands settle closer to the keys and lift ahead of travel. The revised motion and note visualizer follow the performance’s three extended tied holds.",
+    "links": [],
+    "kind": "Project milestone"
+  },
+  {
     "date": "2026-11-15",
     "status": "Work in progress",
     "title": "Tied-note changes mapped into the performance timeline",
