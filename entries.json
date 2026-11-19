@@ -2,6 +2,14 @@
   {
     "date": "2026-11-18",
     "status": "Work in progress",
+    "title": "Chopin Étude Op. 25 No. 5 fingering and grace-note phrasing",
+    "summary": "A full-piece review of both hands produced a revised fingering map, including two-finger patterns for the opening figure and late trill. A separate audio audition lets the grace-note chords around 0:41 ring a little longer while preserving the spacing between gestures. The revised fingering is still a source map. Rendered hand motion and synchronization with the revised audio remain to be checked.",
+    "links": [],
+    "kind": "Project milestone"
+  },
+  {
+    "date": "2026-11-18",
+    "status": "Work in progress",
     "title": "Chopin Étude Op. 25 No. 5 phrasing and hand motion refined",
     "summary": "A new private preview shapes five phrases around the score’s dynamic markings. Unused fingers on both hands settle closer to the keys and lift ahead of travel. The revised motion and note visualizer follow the performance’s three extended tied holds.",
     "links": [],
