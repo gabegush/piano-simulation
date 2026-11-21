@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-21",
+    "status": "Work in progress",
+    "title": "Serenade widescreen preview",
+    "summary": "A full-length work-in-progress preview of Schubert–Liszt’s Serenade uses the Winter Wind layout, alternating front and overhead views with an on-screen piano-note visualizer. The hand animation is still being refined.",
+    "links": [],
+    "kind": "Project milestone"
+  },
+  {
     "date": "2026-11-20",
     "status": "Work in progress",
     "title": "Schubert–Liszt Ständchen — Resting-finger motion revised",
